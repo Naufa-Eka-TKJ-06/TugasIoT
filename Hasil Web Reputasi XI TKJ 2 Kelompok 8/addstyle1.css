@@ -1,0 +1,45 @@
+body {
+  background-color: white;
+  color: blue;
+}
+form {
+  font-size: 25px
+}
+input[type=text] {
+  width: 100%;
+  padding: 5px 5px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid blue;
+  border-radius: 4px;
+  font-size: 30px
+}
+a:link, a:visited {
+  background-color: #1b00f5;
+  color: white;
+  padding: 20px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px
+}
+
+a:hover, a:active {
+  background-color: blue;
+  font-size: 30px
+}
+input[type="submit"] {
+	background-color: #1b00f5;
+	color: white;
+	padding: 10px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 30px
+}
+h1 {
+  background-color: #1b00f5;
+  color: white;
+  padding: 40px 25px;
+  text-align: center;
+}

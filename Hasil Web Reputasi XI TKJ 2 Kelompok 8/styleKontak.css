@@ -1,0 +1,43 @@
+a:link{
+	font-size: 14px;
+	color:black;
+	font-family: arial, helvetica, sans-serif;
+	padding: 10px;
+	text-decoration: none;
+}
+a:visited{
+	color:black;
+}
+a:hover{
+	color:white;
+}
+h2 {
+	color:black;
+	margin : 0;
+	font-size: 25px;
+}
+p {
+	color:black;
+	font-size: 18px;
+	font-family: arial, helvetica, sans-serif;
+}
+#content {width:1400px;}
+#kiri {
+	width:1000px;
+	height:750px;
+	background: #d9d9d9;
+	float: left;
+	padding :30px;
+	text-align: justify;
+
+}
+#kanan {
+	width:348px;
+	height:750px;
+	background: #b3b3b3;
+	float: left;
+}
+img {
+	width:330px;
+	padding : 10px;
+}

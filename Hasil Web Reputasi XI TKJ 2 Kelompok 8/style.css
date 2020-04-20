@@ -1,0 +1,42 @@
+/*JUMBO STYLE*/
+.jumbotron {
+	
+}
+.jumbotron .display-4{
+	color:white;
+}
+h2 {
+	color:white;
+}
+p {
+	color:white;
+	font-size: 15px;
+	font-family: arial, helvetica, sans-serif;
+}
+a:link{
+	font-size: 15px;
+	color:black;
+	font-family: arial, helvetica, sans-serif;
+	padding: 10px;
+	text-decoration: none;
+}
+a:visited{
+	color:black;
+}
+a:hover{
+	color:white;
+}
+.card-group p{
+	color:black;
+}
+/*CAROUSEL STYLE*/
+
+.carousel-item{
+	height: 550px;
+}
+.carousel-item img {
+	margin-bottom: -150px;
+}
+.carpusel-item .display-4{
+	margin-top: -440px;
+}

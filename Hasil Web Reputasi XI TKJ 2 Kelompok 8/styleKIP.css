@@ -1,0 +1,21 @@
+a:link{
+	font-size: 14px;
+	color:black;
+	font-family: arial, helvetica, sans-serif;
+	padding: 10px;
+	text-decoration: none;
+}
+a:visited{
+	color:black;
+}
+a:hover{
+	color:white;
+}
+h2 {
+	color:black;
+}
+p {
+	color:black;
+	font-size: 15px;
+	text-align: justify;
+}
